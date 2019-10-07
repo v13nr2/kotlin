@@ -276,7 +276,7 @@
                         android:layout_weight="0.25"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -360,7 +360,7 @@
                         android:layout_weight="0.25"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -403,7 +403,7 @@
                         android:layout_weight="0.25"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -455,7 +455,7 @@
                         android:layout_weight="0.25"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -498,7 +498,7 @@
                         android:background="?attr/selectableItemBackground"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -541,7 +541,7 @@
                         android:background="?attr/selectableItemBackground"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -585,7 +585,7 @@
                         android:background="?attr/selectableItemBackground"
                         android:clickable="true"
                         app:cardCornerRadius="10dp"
-                        app:cardElevation="5dp">
+                        app:cardElevation="0dp">
 
                         <RelativeLayout
                             android:layout_width="match_parent"
