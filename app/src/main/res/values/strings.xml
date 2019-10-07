@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Koperasi</string>
+    <string name="news">Home</string>
+    <string name="inbox">Informasi</string>
+    <string name="calendar">Pay</string>
+    <string name="chat">Riwayat</string>
+    <string name="profile">Saya</string>
+
+</resources>
